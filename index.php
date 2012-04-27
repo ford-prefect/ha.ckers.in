@@ -25,6 +25,7 @@ $hacker_links = array(
 	"Sup3rkiddo" => "http://sudharsh.wordpress.com/",
 	"t3rmin4t0r" => "http://notmysock.org",
 	"YuviPanda" => "http://yuvi.in",
+	"shadeslayer" => "http://kshadeslayer.wordpress.com/".
 );
 
 $hacker_alts = array("Gurpartap" => "balle balle?",

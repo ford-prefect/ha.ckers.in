@@ -8,3 +8,4 @@ kitallis	The Ruler of the Universe
 lut4rp		Arthur Dent
 beachbrake	Benjy mouse
 sid0		Frankie mouse
+warpy   Eddie
